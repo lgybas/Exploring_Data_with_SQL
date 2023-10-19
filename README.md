@@ -3,4 +3,4 @@ This was my first project (after a long time) to explore Data with SQL and Table
 It uses sales data of an online shop based in Brazil (called Magist database).
 The presentation discusses whether or not a company in Europe (Eniac) should consider to use the online shop in Brazil to expand their market.
 
-You can find the results of our analysis [here](Results/Presentation of Results_Is Magist a good fit for Eniac.pdf)
+You can find the results of our analysis [hereResults/Presentation of Results_Is Magist a good fit for Eniac.pdf)]
